@@ -6,8 +6,8 @@
 
 # 🌐 Socials:
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-pa/)
 
 # GitHub Stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?arantesgabriel=anuraghazra&show_icons=true&theme=transparent)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?arantesgabriel=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
